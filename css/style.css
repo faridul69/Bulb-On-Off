@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ddd;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+}
+.title{
+    background-color: aqua;
+    padding: 15px;
+    color: rgb(252, 0, 210);
+    /* margin-bottom: 10%; */
+}
+#send_text{
+    color: red;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
+#lightBulb{
+    height: 600px;
+}
+#SwitchID{
+    height: 200px;
+}
